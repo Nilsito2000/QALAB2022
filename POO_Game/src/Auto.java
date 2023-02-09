@@ -1,4 +1,5 @@
 public class Auto {
+
     private String sPlaca;
     private  double dVelocidadMaxima = 180;
     private boolean bEncendidoMotor = false;
